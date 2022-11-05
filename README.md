@@ -1,4 +1,5 @@
 First Phase
+
 Main.cpp contains the C++ code used to link C++ and MySQL according to the database and the table that I have created for storing the data;
 On executing the C++ code, the seller can enter the details by checking it from the inventory table to ensure if the given vehicle is available or not.
 All of this data is stored inside a table which is stored in a centralised database called minproj in my case.
