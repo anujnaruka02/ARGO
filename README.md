@@ -14,6 +14,8 @@ The next image showcases two tables, one is the table named MAIN_SERVER that sto
 
 ![image](https://user-images.githubusercontent.com/73575537/197339229-ce6b625d-5291-46b4-a942-2688e2c4904b.png)
 
+![Map](https://user-images.githubusercontent.com/73575537/203420799-b800a28b-2707-4f34-a46c-218b57d8d8cd.JPG)
+
 Second Phase - In Process
 
 Creating an interface for the users to interact with the system easily and efficiently
